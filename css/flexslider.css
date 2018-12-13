@@ -324,7 +324,7 @@ html[xmlns] .slides {display: block;}
 	top:45%;
 	width:100%;
 	margin-left:-585px;
-	color:#333;
+	color:#37083a;
 	transform: translateY(-50%);
 	-o-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
@@ -339,7 +339,7 @@ html[xmlns] .slides {display: block;}
 
 .top_slider .slide2 {
 	height:100%;
-	background-image:url(../images/inicio/EdificioMaroy.jpg);
+	background-image:url(../images/inicio/EdificioMaroy1.jpg);
 	background-size:cover;
 	background-attachment:fixed !important;
 }
@@ -351,7 +351,7 @@ html[xmlns] .slides {display: block;}
 	top:45%;
 	width:100%;
 	margin-left:-585px;
-	color:#fff;
+	color:#37083a;
 	transform: translateY(-50%);
 	-o-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
@@ -377,7 +377,7 @@ html[xmlns] .slides {display: block;}
 	top:45%;
 	width:100%;
 	margin-left:-585px;
-	color:#fff;
+	color:#37083a;
 	transform: translateY(-50%);
 	-o-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
@@ -505,7 +505,7 @@ html[xmlns] .slides {display: block;}
 	.top_slider .slide1 .flex_caption1 .title1, .top_slider .slide1 .flex_caption1 .title2, .top_slider .slide1 .flex_caption1 .title3, .top_slider .slide2 .flex_caption1 .title1, .top_slider .slide2 .flex_caption1 .title2, .top_slider .slide2 .flex_caption1 .title3, .top_slider .slide3 .flex_caption1 .title1, .top_slider .slide3 .flex_caption1 .title2, .top_slider .slide3 .flex_caption1 .title3 {font-size:60px; line-height:60px;}
 	.top_slider .slide_btn {margin-left:204px;}
 	
-	.top_slider .slide1 .flex_caption1 .title4, .top_slider .slide2 .flex_caption1 .title4, .top_slider .slide3 .flex_caption1 .title4 {font-size:17px; line-height:24px; width:450px;}
+	.top_slider .slide1 .flex_caption1 .title4, .top_slider .slide2 .flex_caption1 .title4, .top_slider .slide3 .flex_caption1 .title4 {font-size:17px; line-height:24px; width:450px}
 	
 	
 }
