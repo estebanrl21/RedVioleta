@@ -332,11 +332,7 @@ $(function() {
     });
 });
 
-$(function() {
-    $(".title04").click(function() {
-        $(".ocultar04").slideToggle(500);
-    });
-}); 
+
 
 
 
