@@ -206,7 +206,7 @@ blockquote:before {content:'“'; position:absolute; left:15px; top:13px; font-s
 
 
 
-/* __________ breadcrumb __________ */
+/* __________ breadcrumb  _______ */
 .breadcrumbs_block {
 	padding:81px 0;
 	background-image:url(../images/clean_code_bg.jpg);
@@ -463,7 +463,7 @@ header {
 /* __________ Clean Code __________ */
 .cleancode_block {
 	padding:96px 0 78px;
-	background-image:url(../images/clean_code_bg.jpg);
+	background-image:url(../ImagenRedVioleta/mujeres-unidas-.png);
 	background-size:cover;
 	background-position:0 0;
 	background-attachment:fixed !important;
@@ -488,7 +488,7 @@ header {
 	font-weight:300;
 	line-height:34px;
 	font-size:26px;
-	color:#ffae32;
+	color:#95019d;
 }
 .cleancode_block .tab-pane {
 	display:block;
@@ -1681,7 +1681,7 @@ input[type="color"]:focus {
 /* __________ Menu __________ */
 	.navmenu ul li a {padding-left:15px; padding-right:15px;}
 
-/* __________ Index __________ */
+/* __________ Index __Quienes somos Alex________ */
 	.cleancode_block p.title {font-size:70px; line-height:70px;}
 	.cleancode_block .nav-tabs li a {width:136px; height:136px; padding-top:35px;}
 	.cleancode_block .nav-tabs li a i {width:45px; height:45px;}

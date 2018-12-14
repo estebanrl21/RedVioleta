@@ -85,6 +85,12 @@ jQuery(document).ready(function() {
 	}
 });
 
+$(function() {
+    $(".title01").click(function() {
+        $(".oculdar01").fadeToggle(1000);
+    });
+});
+
 
 
 
@@ -301,6 +307,37 @@ jQuery(document).ready(function() {
 		jQuery('#map').removeClass('showed');
 	});
 });
+
+
+//efenco de desapareser y apareser (alex) en como lo hacemos
+
+$(function() {
+    $(".title01").click(function() {
+        $(".ocultar01").fadeToggle(1000);
+    });
+});
+
+
+//efenco de desapareser y apareser (alex) en que busca la red
+$(function() {
+    $(".title02").click(function() {
+        $(".ocultar02").fadeToggle(1000);
+    });
+});
+
+//efenco de desapareser y apareser (alex) en Quienes somos
+$(function() {
+    $(".title").click(function() {
+        $(".ocultar03").fadeToggle(1000);
+    });
+});
+
+$(function() {
+    $(".title04").click(function() {
+        $(".ocultar04").slideToggle(500);
+    });
+}); 
+
 
 
 
